@@ -2,7 +2,7 @@
 
 **Backend engineer — Java & Go — Tokyo, Japan 🇯🇵**
 
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?logo=amazonwebservices&logoColor=white)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/dce839e8-a0ef-4618-beb3-e4b7cd758462/public_url)
 
 Most of my work lives in private and client repositories — this profile is a map rather than a portfolio.
 
