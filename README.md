@@ -43,7 +43,7 @@ Most of my work lives in private and client repositories — this profile is a m
 - **Kishta.io** — mobile app for a streaming community
 - **OBS.pro** — remote OBS platform in the browser (cloud-virtualized OBS instances, globally redundant low-latency stream ingest) — full backend design & mobile app
 - **Mobile App** — native Android & iOS development
-- **MyBH** — backend & platform work
+- **MyBH.io** — backend & platform work
 
 ### 📌 Currently
 
