@@ -48,10 +48,5 @@ Most of my work lives in private and client repositories — this profile is a m
 ### 📌 Currently
 
 Living in Tokyo, studying Japanese (aiming for JLPT N2) and freelancing on backend & mobile.
-Open to backend / platform engineering roles in Japan.
-
-### 📫 Reach me
-
-evan.ferroli@gmail.com
 
 🇫🇷 French · 🇬🇧 English · 🇯🇵 Japanese (learning)
